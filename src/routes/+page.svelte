@@ -3,7 +3,7 @@
     const numberOfGroups = 6;
     const animals = [
         "whale",
-        "tiger",
+        "ostrich",
         "elephant",
         "gibbon",
         "ibex",
