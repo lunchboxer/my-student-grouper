@@ -2,16 +2,16 @@
     const numberOfStudents = 16;
     const numberOfGroups = 6;
     const animals = [
-        "Lion",
-        "Tiger",
-        "Elephant",
-        "Monkey",
-        "Ibex",
-        "Zebra",
-        "Giraffe",
-        "Kangaroo",
-        "Penguin",
-        "Dolphin",
+        "whale",
+        "tiger",
+        "elephant",
+        "gibbon",
+        "ibex",
+        "sloth",
+        "giraffe",
+        "kangaroo",
+        "penguin",
+        "fennec fox",
     ];
     // Expected group structure for 16 students in 6 groups: 4 groups of 3, 2 groups of 2
     const targetGroupCounts = { trio: 4, duo: 2 };
